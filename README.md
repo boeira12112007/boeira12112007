@@ -1,8 +1,8 @@
 # Hi there 👋
 -o eu sou gabriel boeira
 -eu tenho um gatinho muito fofo  
-eu tenho 14 anos
-facebook gabriel boeira 
+-eu tenho 14 anos
+-facebook gabriel boeira 
 
 
 **boeira12112007/boeira12112007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

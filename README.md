@@ -1,6 +1,6 @@
 # Hi there 👋
 -o eu sou gabriel boeira
--eu tenho um gatinho muito fofo  
+-eu estudo no 1;ano A
 -eu tenho 14 anos
 -facebook gabriel boeira 
 
